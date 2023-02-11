@@ -1,0 +1,8 @@
+peewee
+bs4
+requests
+selenium
+webdriver-manager
+lxml
+fake-useragent
+psycopg2-binary
